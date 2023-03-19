@@ -26,7 +26,7 @@ Keep the target audience for the content you are writing in mind. For example, a
 
 The three Cs of good writing are writing clearly, concisely, and consistently.
 
-- **Clear**: Ensure that your writing is clear and simple. In general, use active voice and unambiguous pronouns. Write short sentences, sticking to one idea per sentence. Define new terms, keeping the target audience in, before using them.
+- **Clear**: Ensure that your writing is clear and simple. In general, use active voice and unambiguous pronouns. Write short sentences, sticking to one idea per sentence. Define new terms for your audience before using them.
 - **Concise**: When writing any document, it's important to know how much to say. If you provide excessive detail, the page becomes tedious to read and it will rarely be used.
 - **Consistent**: Ensure you use the same verbiage consistently throughout the page and across multiple pages.
 
